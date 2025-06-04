@@ -1,4 +1,4 @@
-# 👋 Laravel Developer Portfolio – [Your Full Name]
+# 👋 Laravel Developer Portfolio – [Dipankar Sarkar]
 
 Welcome to my Laravel development portfolio. This curated collection showcases my skills and experience across Laravel backend development, full-stack projects with Inertia.js and React, as well as cloud-native deployment and testing. These projects align with modern development practices and demonstrate my readiness for freelance remote roles like the one offered by **The Event Verse**.
 
