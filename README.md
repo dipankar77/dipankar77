@@ -17,7 +17,7 @@ These code samples are designed to show how I approach real-world solutions — 
 
 ---
 
-## 🚀 Featured Code Repositories by Category
+## 📂 Featured Code Repositories by Category
 
 ### 1. 🔧 Laravel Backend Projects
 
