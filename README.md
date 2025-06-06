@@ -4,12 +4,6 @@ Welcome to my professional development portfolio. This curated collection demons
 
 These code samples are designed to show how I approach real-world solutions — one feature, one stack, one problem at a time. Whether you're looking for backend expertise, DevOps readiness, or full-stack agility, these repositories reflect my readiness for high-impact freelance and remote contract roles.
 
-🚀 Full-Stack Laravel + JavaScript Developer | 20 Yrs Experience  
-🔁 Remote-first | API Architect | Clean Code Advocate  
-🎯 PHP · Laravel · React · Inertia.js · Python · AWS · Docker  
-🌐 Currently @ Digital India Corporation (MeitY)  
-📍 New Delhi, India | dipankar77@gmail.com | codersprint.com
-
 ---
 
 ## 🧰 Tech Stack Overview
