@@ -1,4 +1,4 @@
-# 👋 Laravel Developer Portfolio – [Dipankar Sarkar]
+# 👋 Remote Full-Stack Developer Portfolio – Dipankar Sarkar
 
 Welcome to my Laravel development portfolio. This curated collection showcases my skills and experience across Laravel backend development, full-stack projects with Inertia.js and React, as well as cloud-native deployment and testing. These projects align with modern development practices and demonstrate my readiness for freelance remote roles like the one offered by **The Event Verse**.
 
@@ -6,15 +6,17 @@ Welcome to my Laravel development portfolio. This curated collection showcases m
 
 ## 🧰 Tech Stack Overview
 
-- **Languages & Frameworks:** PHP, Laravel, JavaScript, React, Inertia.js
-- **Styling:** Tailwind CSS
+- **Languages & Frameworks:** PHP, Laravel, JavaScript, React, Vue, Inertia.js, Python, Django, FastAPI
+- **Styling:** Tailwind CSS, Bootstrap
 - **Testing:** PHPUnit, Pest
 - **Cloud & DevOps:** AWS, Laravel Vapor, Docker
 - **CI/CD:** GitHub Actions, Laravel Forge/Vapor
+- **AI/ML & Interoperability:** FastAPI microservices, scikit-learn, Python APIs integrated with Laravel
 
 ---
 
-## 📂 Portfolio Categories
+## 🚀 Featured Code Repositories by Category
+
 
 ### 1. 🔧 Laravel Backend Projects
 
@@ -54,8 +56,8 @@ Welcome to my Laravel development portfolio. This curated collection showcases m
 
 ## 📬 Get in Touch
 
-- 🔗 [Portfolio Website](https://yourwebsite.com)
-- 📧 [Email Me](mailto:your.email@example.com)
+- 🔗 [Portfolio Website](https://www.codersprint.com)
+- 📧 [Email Me](mailto:dipankar77@gmail.com)
 - 🕒 Availability: [e.g. Mon–Fri, 9am–6pm GMT+1]
 - 💼 Hourly Rate: [e.g. $40/hour USD or negotiable]
 - 💬 I'm available for freelance and remote contract work
