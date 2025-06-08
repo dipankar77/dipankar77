@@ -23,7 +23,7 @@ These code samples are designed to show how I approach real-world solutions — 
 
 | Repository | Description |
 |------------|-------------|
-| [event-management-api](https://github.com/dipankar77/event-management-api) | RESTful Laravel API for managing events, users, bookings, and logistics. Includes authentication, role-based access, and database seeding. |
+| [laravel-auth-breeze-react](https://github.com/dipankar77/laravel-auth-breeze-react) | This repository showcases a modern authentication setup using Laravel Breeze with React, Inertia.js, and Tailwind CSS. |
 | [task-tracker-laravel](https://github.com/dipankar77/task-tracker-laravel) | Task management app with user accounts, categories, priorities, and notification logic built with Laravel and MySQL. |
 
 ---
