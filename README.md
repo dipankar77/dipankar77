@@ -19,7 +19,7 @@ These code samples are designed to show how I approach real-world solutions — 
 
 ## 📂 Featured Code Repositories by Category
 
-### 1. 🔧 Laravel Feature Repos (Backend Focus)
+### 1. 🔧 Laravel Features
 
 | Repository | Description |
 |------------|-------------|
@@ -28,7 +28,7 @@ These code samples are designed to show how I approach real-world solutions — 
 
 ---
 
-### 2. ⚛️ Laravel + Inertia.js + React Projects
+### 2. ⚛️ Frontend Integration
 
 | Repository | Description |
 |------------|-------------|
@@ -37,7 +37,7 @@ These code samples are designed to show how I approach real-world solutions — 
 
 ---
 
-### 3. ☁️ Cloud & Serverless Deployment
+### 3. ☁️ Cloud/DevOps & Serverless Deployment
 
 | Repository | Description |
 |------------|-------------|
@@ -55,7 +55,7 @@ These code samples are designed to show how I approach real-world solutions — 
 
 ---
 
-### 5. 🤖 AI & Python Integration
+### 5. 🤖 AI/ML (Advanced Layer) & Python Integration
 
 | Repository | Description |
 |------------|-------------|
