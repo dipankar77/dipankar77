@@ -20,7 +20,9 @@ These code samples are designed to show how I approach real-world solutions — 
 | Repository | Description |
 |------------|-------------|
 | [laravel-auth-breeze-react](https://github.com/dipankar77/laravel-auth-breeze-react) | This repository showcases a modern authentication setup using Laravel Breeze with React, Inertia.js, and Tailwind CSS. |
-| [task-tracker-laravel](https://github.com/dipankar77/task-tracker-laravel) | Task management app with user accounts, categories, priorities, and notification logic built with Laravel and MySQL. |
+| [laravel-auth-jetstream-react](https://github.com/dipankar77/laravel-auth-jetstream-react) | Task management app with user accounts, categories, priorities, and notification logic built with Laravel and MySQL. |
+| [laravel-auth-fortify-api](https://github.com/dipankar77/laravel-auth-fortify-api) | Task management app with user accounts, categories, priorities, and notification logic built with Laravel and MySQL. |
+| [laravel-auth-ui-bootstrap](https://github.com/dipankar77/laravel-auth-ui-bootstrap) | Task management app with user accounts, categories, priorities, and notification logic built with Laravel and MySQL. |
 
 ### 2. ⚛️ Frontend Integration
 
