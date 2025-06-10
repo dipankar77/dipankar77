@@ -1,10 +1,8 @@
-# 👋 Remote Full-Stack Developer Portfolio – Dipankar Sarkar
+# 👋 Full-Stack Developer Portfolio – Dipankar Sarkar
 
 Welcome to my professional development portfolio. This curated collection demonstrates my experience across modern PHP ecosystems, focusing on **Laravel backend development**, **full-stack applications using Inertia.js with React or Vue**, **clean testing**, **cloud-native deployments**, and **Python-based AI/ML integrations**.
 
 These code samples are designed to show how I approach real-world solutions — one feature, one stack, one problem at a time. Whether you're looking for backend expertise, DevOps readiness, or full-stack agility, these repositories reflect my readiness for high-impact freelance and remote contract roles.
-
----
 
 ## 🧰 Tech Stack Overview
 
@@ -14,8 +12,6 @@ These code samples are designed to show how I approach real-world solutions — 
 - **Cloud & DevOps:** AWS, Laravel Vapor, Docker  
 - **CI/CD:** GitHub Actions, Laravel Forge/Vapor  
 - **AI/ML & Interoperability:** FastAPI microservices, scikit-learn, Python APIs integrated with Laravel  
-
----
 
 ## 📂 Featured Code Repositories by Category
 
