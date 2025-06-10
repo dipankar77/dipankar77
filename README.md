@@ -22,16 +22,12 @@ These code samples are designed to show how I approach real-world solutions — 
 | [laravel-auth-breeze-react](https://github.com/dipankar77/laravel-auth-breeze-react) | This repository showcases a modern authentication setup using Laravel Breeze with React, Inertia.js, and Tailwind CSS. |
 | [task-tracker-laravel](https://github.com/dipankar77/task-tracker-laravel) | Task management app with user accounts, categories, priorities, and notification logic built with Laravel and MySQL. |
 
----
-
 ### 2. ⚛️ Frontend Integration
 
 | Repository | Description |
 |------------|-------------|
 | [event-dashboard](https://github.com/dipankar77/event-dashboard) | Full-stack app built using Laravel + Inertia.js + React for visualizing crew assignment and scheduling in events. |
 | [auth-scaffold-inertia](https://github.com/dipankar77/auth-scaffold-inertia) | Boilerplate with Laravel Breeze + Inertia.js + React demonstrating user auth, profile editing, and protected routes. |
-
----
 
 ### 3. ☁️ Cloud/DevOps & Serverless Deployment
 
@@ -40,8 +36,6 @@ These code samples are designed to show how I approach real-world solutions — 
 | [vapor-demo-deployment](https://github.com/dipankar77/vapor-demo-deployment) | Laravel app configured for serverless deployment using Laravel Vapor with AWS. Includes deployment config files and environment setup. |
 | [laravel-docker-template](https://github.com/dipankar77/laravel-docker-template) | Dockerized Laravel development environment with Nginx, MySQL, and Mailhog, optimized for local and CI use. |
 
----
-
 ### 4. 🧪 Testing & Utilities
 
 | Repository | Description |
@@ -49,16 +43,12 @@ These code samples are designed to show how I approach real-world solutions — 
 | [laravel-pest-testing-demo](https://github.com/dipankar77/laravel-pest-testing-demo) | A demonstration of modern test-driven development in Laravel using Pest and Factory-based seeders. |
 | [component-snippets](https://github.com/dipankar77/component-snippets) | Reusable Laravel Blade and React components styled with Tailwind CSS for rapid prototyping. |
 
----
-
 ### 5. 🤖 AI/ML (Advanced Layer) & Python Integration
 
 | Repository | Description |
 |------------|-------------|
 | [laravel-ml-api-bridge](https://github.com/dipankar77/laravel-ml-api-bridge) | Example Laravel app sending form data to a FastAPI ML service for real-time predictions. |
 | [fastapi-scikit-demo](https://github.com/dipankar77/fastapi-scikit-demo) | Python FastAPI microservice with scikit-learn model serving predictions via REST. |
-
----
 
 ## 📬 Get in Touch
 
