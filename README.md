@@ -63,8 +63,6 @@ These code samples are designed to show how I approach real-world solutions — 
 - 💼 **Hourly Rate:** Open to discussion based on project scope and duration
 - 💬 Open to freelance and remote contract opportunities
 
----
-
 > 📌 Tip: You can click any repository link above to explore the source code, README instructions, and working examples.
 
 Thank you for visiting my portfolio. Let’s build something outstanding together!
