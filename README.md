@@ -19,10 +19,10 @@ These code samples are designed to show how I approach real-world solutions — 
 
 | Repository | Description |
 |------------|-------------|
-| [laravel-auth-breeze-react](https://github.com/dipankar77/laravel-auth-breeze-react) | This repository showcases a modern authentication setup using Laravel Breeze with React, Inertia.js, and Tailwind CSS. |
-| [laravel-auth-jetstream-react](https://github.com/dipankar77/laravel-auth-jetstream-react) | Task management app with user accounts, categories, priorities, and notification logic built with Laravel and MySQL. |
-| [laravel-auth-fortify-api](https://github.com/dipankar77/laravel-auth-fortify-api) | Task management app with user accounts, categories, priorities, and notification logic built with Laravel and MySQL. |
-| [laravel-auth-ui-bootstrap](https://github.com/dipankar77/laravel-auth-ui-bootstrap) | Task management app with user accounts, categories, priorities, and notification logic built with Laravel and MySQL. |
+| [laravel-auth-breeze-react](https://github.com/dipankar77/laravel-auth-breeze-react) | A minimal, modern Laravel authentication starter kit using Laravel Breeze, Inertia.js, React, and Tailwind CSS. Demonstrates your ability to build SPA-ready Laravel apps with a clean frontend and SQLite setup for easy prototyping. |
+| [laravel-auth-jetstream-react](https://github.com/dipankar77/laravel-auth-jetstream-react) | A feature-rich Laravel + React starter built with Jetstream and Inertia.js. Includes authentication, email verification, optional team management, and responsive frontend components. Ideal for full-stack SPA development. |
+| [laravel-auth-fortify-api](https://github.com/dipankar77/laravel-auth-fortify-api) | Backend API authentication with Laravel Fortify and Sanctum. Demonstrates how to build secure, token-based login and registration flows for APIs, including custom route handling and role-ready authentication. |
+| [laravel-auth-ui-bootstrap](https://github.com/dipankar77/laravel-auth-ui-bootstrap) | A traditional Laravel setup using the laravel/ui package with Bootstrap-styled Blade templates. Focused on session-based authentication with classic views, making it ideal for admin panels or legacy-style applications. |
 
 ### 2. ⚛️ Frontend Integration
 
