@@ -6,7 +6,7 @@ These code samples are designed to show how I approach real-world solutions — 
 
 ## 🧰 Tech Stack Overview
 
-- **Languages & Frameworks:** PHP, Laravel, JavaScript, React, Vue, Inertia.js, Python, Django, FastAPI  
+- **Languages & Frameworks:** PHP, Laravel, JavaScript, React, Vue, Inertia.js, Alpine.js, Livewire, Python, Django, FastAPI  
 - **Styling:** Tailwind CSS, Bootstrap  
 - **Testing:** PHPUnit, Pest  
 - **Cloud & DevOps:** AWS, Laravel Vapor, Docker  
