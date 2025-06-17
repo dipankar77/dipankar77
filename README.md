@@ -23,6 +23,7 @@ These code samples are designed to show how I approach real-world solutions — 
 | [laravel-auth-jetstream-react](https://github.com/dipankar77/laravel-auth-jetstream-react) | A feature-rich Laravel + React starter built with Jetstream and Inertia.js. Includes authentication, email verification, optional team management, and responsive frontend components. Ideal for full-stack SPA development. |
 | [laravel-auth-fortify-api](https://github.com/dipankar77/laravel-auth-fortify-api) | Backend API authentication with Laravel Fortify and Sanctum. Demonstrates how to build secure, token-based login and registration flows for APIs, including custom route handling and role-ready authentication. |
 | [laravel-auth-ui-bootstrap](https://github.com/dipankar77/laravel-auth-ui-bootstrap) | A traditional Laravel setup using the laravel/ui package with Bootstrap-styled Blade templates. Focused on session-based authentication with classic views, making it ideal for admin panels or legacy-style applications. |
+| [laravel-queue-demo](https://github.com/dipankar77/laravel-queue-demo.git) | Laravel Queue Demo. |
 
 ### 2. ⚛️ Frontend Integration
 
