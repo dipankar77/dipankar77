@@ -29,8 +29,11 @@ These code samples are designed to show how I approach real-world solutions — 
 
 | Repository | Description |
 |------------|-------------|
-| [event-dashboard](https://github.com/dipankar77/event-dashboard) | Full-stack app built using Laravel + Inertia.js + React for visualizing crew assignment and scheduling in events. |
-| [auth-scaffold-inertia](https://github.com/dipankar77/auth-scaffold-inertia) | Boilerplate with Laravel Breeze + Inertia.js + React demonstrating user auth, profile editing, and protected routes. |
+| [inertia-react-auth-demo](https://github.com/dipankar77/inertia-react-auth-demo) | Full-stack app built using Laravel + Inertia.js + React for visualizing crew assignment and scheduling in events. |
+| [inertia-react-crud-tasks](https://github.com/dipankar77/inertia-react-crud-tasks) | Boilerplate with Laravel Breeze + Inertia.js + React demonstrating user auth, profile editing, and protected routes. |
+| [inertia-react-crud-advanced](https://github.com/dipankar77/inertia-react-crud-advanced) | Full-stack app built using Laravel + Inertia.js + React for visualizing crew assignment and scheduling in events. |
+| [vue-laravel-todo-demo](https://github.com/dipankar77/vue-laravel-todo-demo) | Boilerplate with Laravel Breeze + Inertia.js + React demonstrating user auth, profile editing, and protected routes. |
+| [tailwind-vue-inertia-demo](https://github.com/dipankar77/tailwind-vue-inertia-demo) | Full-stack app built using Laravel + Inertia.js + React for visualizing crew assignment and scheduling in events. |
 
 ### 3. ☁️ Cloud/DevOps & Serverless Deployment
 
