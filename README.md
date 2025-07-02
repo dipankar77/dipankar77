@@ -46,7 +46,7 @@ These code samples are designed to show how I approach real-world solutions — 
 | [laravel-pest-testing-demo](https://github.com/dipankar77/laravel-pest-testing-demo) | A demonstration of modern test-driven development in Laravel using Pest and Factory-based seeders. |
 | [component-snippets](https://github.com/dipankar77/component-snippets) | Reusable Laravel Blade and React components styled with Tailwind CSS for rapid prototyping. |
 
-### 5. 🤖 AI/ML (Advanced Layer) & Python Integration
+### 5. 🤖 AI & API Integrations (Laravel + Python)
 
 | Repository | Description |
 |------------|-------------|
