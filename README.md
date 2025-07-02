@@ -39,8 +39,8 @@ These code samples are designed to show how I approach real-world solutions — 
 
 | Repository | Description |
 |------------|-------------|
-| [vapor-demo-deployment](https://github.com/dipankar77/vapor-demo-deployment) | Laravel app configured for serverless deployment using Laravel Vapor with AWS. Includes deployment config files and environment setup. |
-| [laravel-docker-template](https://github.com/dipankar77/laravel-docker-template) | Dockerized Laravel development environment with Nginx, MySQL, and Mailhog, optimized for local and CI use. |
+| [laravel-docker-setup](https://github.com/dipankar77/laravel-docker-setup) | Laravel app configured for serverless deployment using Laravel Vapor with AWS. Includes deployment config files and environment setup. |
+| [laravel-vapor-deployment-demo](https://github.com/dipankar77/laravel-vapor-deployment-demo) | Dockerized Laravel development environment with Nginx, MySQL, and Mailhog, optimized for local and CI use. |
 
 ### 4. 🧪 Testing & Utilities
 
