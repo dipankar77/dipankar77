@@ -53,6 +53,13 @@ These code samples are designed to show how I approach real-world solutions — 
 | [laravel-ml-api-bridge](https://github.com/dipankar77/laravel-ml-api-bridge) | Example Laravel app sending form data to a FastAPI ML service for real-time predictions. |
 | [fastapi-scikit-demo](https://github.com/dipankar77/fastapi-scikit-demo) | Python FastAPI microservice with scikit-learn model serving predictions via REST. |
 
+### 6. 🎯Portfolio/Professional Showcases
+
+| Repository | Description |
+|------------|-------------|
+| [codersprint](https://github.com/dipankar77/codersprint) | Professional Showcases. |
+| [websalvia](https://github.com/dipankar77/websalvia) | Portfolio. |
+
 ## 📬 Get in Touch
 
 - 🔗 [Portfolio Website](https://www.codersprint.com)
