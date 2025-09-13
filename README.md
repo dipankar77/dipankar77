@@ -56,7 +56,13 @@ These code samples are designed to show how I approach real-world solutions — 
 | [laravel-ml-api-bridge](https://github.com/dipankar77/laravel-ml-api-bridge) | Example Laravel app sending form data to a FastAPI ML service for real-time predictions. |
 | [fastapi-scikit-demo](https://github.com/dipankar77/fastapi-scikit-demo) | Python FastAPI microservice with scikit-learn model serving predictions via REST. |
 
-### 6. 🎯Portfolio/Professional Showcases
+### 6. 🎯Magento Modules
+
+| Repository | Description |
+|------------|-------------|
+| [bhashini-translation-plugin-magento2](https://github.com/dipankar77/bhashini-translation-plugin-magento2) | Magento 2 module to integrate Digital India Bhashini Translation Plugin (v3) — multilingual translations for Indian languages, admin controls, and skip-translation support. |
+
+### 7. 🎯Portfolio/Professional Showcases
 
 | Repository | Description |
 |------------|-------------|
